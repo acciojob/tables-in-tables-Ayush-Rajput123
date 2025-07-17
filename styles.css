@@ -1,2 +1,10 @@
-
-/* Your CSS Code here. */
+table{border: 2px solid black}
+td{border: 2px solid black}tr{border: 2px solid black}
+th{border: 2px solid black}
+* {
+  text-align: center;
+}
+#nested4 td {
+  color: white;               
+  background-color: black; 
+}
